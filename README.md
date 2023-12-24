@@ -1,6 +1,6 @@
 [![MasterHead](https://uwm.edu/sce/wp-content/uploads/sites/20/2018/03/data-210120-MISC-PK-Web-Headers-v2-_0004_iStock-1172094014.jpg)](https://uwm.edu/sce/wp-content/uploads/sites/20/2018/03/data-210120-MISC-PK-Web-Headers-v2-_0004_iStock-1172094014.jpg)
 
-<h1 align="center">Hi 👋, I'm Ayaz Rahman Bhuiyan</h1>
+<h1 align="center">Hi, I'm Ayaz Rahman Bhuiyan</h1>
 <h3 align="center">My passion lies in working with data analytics and business intelligence. I am enthusiastic about applying my skills to extract meaningful insights from data, contributing to informed decision-making. My goal is to bridge the gap between raw data and strategic business outcomes, leveraging analytics to enhance efficiency and foster innovation. I am committed to staying updated on the latest trends and technologies in data science to make a meaningful impact in this dynamic field.</h3>
 <img align="right" alt="coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif">
 
